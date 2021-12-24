@@ -1,0 +1,15 @@
+
+.Cover{
+  position:fixed;
+  width: 480px;
+  height: 480px;
+  font-size: x-large;
+}
+
+.Cover:hover{
+  opacity: 0.001;
+}
+
+body{
+  background-image: url("https://wallpaperaccess.com/full/3011651.jpg");
+}
